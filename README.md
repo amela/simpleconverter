@@ -5,7 +5,5 @@ Simple iOS Application for converting EUR to JPY, EUR and USD. Target currency c
 Dependency: ChameleonFramework
 <br />
 
-<img src="img/img1.PNG" width="300" />
-<img src="img/img3.png" width="300" />
 <img src="img/img2.png" width="300" />
 <img src="img/img4.png" width="300" />
