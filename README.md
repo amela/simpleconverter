@@ -6,5 +6,5 @@ Dependency: ChameleonFramework
 <br />
 
 <img src="img/img1.PNG" width="300" />
-<img src="img/img3.PNG" width="300" />
-<img src="img/img2.PNG" width="300" />
+<img src="img/img3.png" width="300" />
+<img src="img/img2.png" width="300" />
